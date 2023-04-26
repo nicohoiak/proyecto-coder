@@ -111,6 +111,11 @@ nav ul li a:hover {
     margin-top: 1rem;
 }
 
+.button-contact{
+    color: white;
+    background-color: var(--celesteoscuro);
+}
+
 
 footer {
     display: flex;
